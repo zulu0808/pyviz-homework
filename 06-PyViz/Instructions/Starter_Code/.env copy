@@ -1,0 +1,5 @@
+ALPACA_API_KEY = "PKM3HSI5Z1LCKWHDI98F"
+ALPACA_SECRET_KEY = "e1UU6eGPZLdRhYtphvhNSdpOTACCc5yhYgX7cD1v"
+btc_url = "https://api.alternative.me/v2/ticker/Bitcoin/?convert=CAD"
+eth_url = "https://api.alternative.me/v2/ticker/Ethereum/?convert=CAD"
+mapbox=pk.eyJ1IjoienVsdTA4MDgiLCJhIjoiY2tnOWwzcWNrMHM5aDJ4bzJuY2Zud2J0ayJ9.416ZK5lLwwbj5NJkSlRydg
